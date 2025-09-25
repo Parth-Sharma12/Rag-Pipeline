@@ -1,0 +1,1 @@
+LLM means large language model. An LLM is an artificial intelligence system designed to understand and generate human language, typically trained on vast amounts of text data.

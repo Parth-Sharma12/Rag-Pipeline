@@ -1,0 +1,1 @@
+RAG stands for Retrieval-Augmented Generation. It is an AI technique that combines information retrieval with language generation, allowing models to fetch relevant documents and generate responses based on both retrieved data and their own knowledge.
